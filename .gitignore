@@ -1,0 +1,15 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.env
+.env.*
+!.env.example
+# Mac protocol experiment: photographs, captures, logs, CA & TLS private material
+poc/mac/output/
+poc/mac/certs/
+poc/mac/logs/
+poc/mac/captures/
